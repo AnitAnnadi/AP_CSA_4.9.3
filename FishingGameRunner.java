@@ -1,6 +1,15 @@
 /********************************************
  * Sample solution for Activity 4.9.3 
  ********************************************/
+
+/* 
+ * Activity 4.9.3
+ * Anit Annadi
+ * Sid Mangumuri
+ * Srish Nagam
+ * Pranav Palagurmi
+ */ 
+
 public class FishingGameRunner
 {
   public static void main(String[] args)
